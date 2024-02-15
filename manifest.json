@@ -1,6 +1,5 @@
 {
   "name": "web101-1",
   "version": "1.0.0",
-  "start_url": "http://localhost:5173",
   "display": "fullscreen"
 }
