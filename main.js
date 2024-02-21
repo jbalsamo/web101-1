@@ -8,12 +8,9 @@ document.querySelector("#app").innerHTML = `
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="./javascript.svg" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1>Hello Hackers!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
+    <h1>Hello Smart People!</h1>
     <p class="read-the-docs">
-      Click this link <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">here</a> to learn more abiut the Manifest file.
+      This project shows how your continuous deployment works with Git and Netlify.
     </p>
   </div>
 `;
