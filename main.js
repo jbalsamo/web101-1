@@ -16,7 +16,7 @@ document.querySelector("#app").innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click this link <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">here</a> to learn more abiut the Manifest file.
+      Hit this <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">here</a> to learn more abiut the Manifest file.
     </p>
   </div>
 `;
